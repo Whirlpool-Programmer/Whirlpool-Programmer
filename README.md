@@ -15,5 +15,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=dark)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whirlpool-programmer&show_icons=true&locale=en&layout=compact" alt="whirlpool-programmer" /></p>
-![Whirlpool-Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whirlpool-Programmer&show_icons=true&theme=dark)
+
+[![Whirlpool-Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whirlpool-Programmer&show_icons=true&theme=dark)]
 
