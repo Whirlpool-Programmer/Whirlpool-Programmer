@@ -14,7 +14,9 @@
 - Fun Fact: I use windows 7 ONLY! and will be upgrading to Windows 20 ONLY!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=dark)](https://git.io/streak-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whirlpool-programmer&show_icons=true&locale=en&layout=compact" alt="whirlpool-programmer" /></p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Whirlpool-Programmer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Whirlpool-Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whirlpool-Programmer&show_icons=true&theme=dark)
 
