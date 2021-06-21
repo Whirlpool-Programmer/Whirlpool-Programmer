@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whirlpool-programmer" alt="whirlpool-programmer" /></a> </p>
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Whirlpool-Programmer&theme=dark)
 
 - I am currently learning **Python Advanced stuffs, C++**
 
