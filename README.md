@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whirlpool-programmer" alt="whirlpool-programmer" /></a> </p>
 
-<!--
-**Whirlpool-Programmer/Whirlpool-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am currently learning **Python Advanced stuffs, C++**
 
-Here are some ideas to get you started:
+- I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit), [Proget](http://pypi.org/projects/proget) and some stuffs on my [Scratch](http://scratch.mit.edu/users/whirlpool-programmer)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My every single project is open-sourced.. Contribute if you want!
+
+- I like talking about **Bill Gates, Microsoft, Python, Intel and The Global Chip Shortage**
+
+- want to email me? email: (Whirlpool.programmer@outlook.com)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=dark)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whirlpool-programmer&show_icons=true&locale=en&layout=compact" alt="whirlpool-programmer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whirlpool-programmer&show_icons=true&locale=en" alt="whirlpool-programmer" /></p>
