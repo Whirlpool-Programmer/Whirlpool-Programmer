@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Whirlpool-Programmer&theme=onedark)]
+![Trophy](https://github-profile-trophy.vercel.app/?username=Whirlpool-Programmer&theme=onedark)
 
 - I am currently learning **Python Advanced stuffs, C++**
 
