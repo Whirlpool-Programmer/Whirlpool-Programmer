@@ -15,6 +15,9 @@
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
 - And yeah, check out WhirlEdit 2.0 just released!
+
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=dark)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Whirlpool-Programmer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
