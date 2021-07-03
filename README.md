@@ -14,7 +14,7 @@
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
-- And yeah, check out WhirlEdit 2.0 just released!
+- And yeah, if you have come and visited this profile then check out my repositories too!
 
 
 
