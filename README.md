@@ -17,7 +17,6 @@
 - And yeah, if you have come and visited this profile then check out my repositories too!
 
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=monokai)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Whirlpool-Programmer&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
