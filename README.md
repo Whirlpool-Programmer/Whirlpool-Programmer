@@ -8,7 +8,7 @@
 
 - My every single project is open-sourced.. Contribute if you want!
 
-- I like talking about **Bill Gates, Microsoft, Python, Intel and The Global Chip Shortage**
+- I like talking about **Bill Gates, Microsoft, Python and Intel**
 
 - My email (whirlpool.programmer@outlook.com)
 
