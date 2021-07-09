@@ -14,7 +14,7 @@
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
-- When not pythoning, i am learning C++ or SQL or MASM or VBScript or i am studying..
+- When not pythoning, i am learning C++ or i am studying..
 
 - And yeah, if you have come and visited this profile then check out my repositories too!
 
