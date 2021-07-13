@@ -18,6 +18,8 @@
 
 - And yeah, if you have come and visited this profile then check out my repositories too!
 
+- At present, I am actively improving my projects- Whirledit and proget! (so make sure to check them out! NOW!)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=monokai)](https://git.io/streak-stats)
 
