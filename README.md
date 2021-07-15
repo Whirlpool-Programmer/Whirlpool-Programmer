@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Whirlpool-Programmer&theme=monokai)
-
-- I am currently learning **Python Advanced stuffs**
+- I am currently learning **Data science in Python**, when not doing that, I am learning **Perl**
 
 - I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit), [Proget](http://pypi.org/projects/proget) and some stuffs on my [Scratch](http://scratch.mit.edu/users/whirlpool-programmer)**
 
