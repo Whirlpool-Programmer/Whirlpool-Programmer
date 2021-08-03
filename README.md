@@ -10,9 +10,9 @@
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
-- When not pythoning, i am learning Perl or C++ or i am studying..
+- When not pythoning, i am studying..
 
-- And yeah, if you have come and visited this profile then check out my repositories too!
+- And yeah, if you have come and visited this profile page, then check out my repositories too!
 
 - At present, I am actively improving my projects- Whirledit and proget! (so make sure to check them out! NOW!)
 
