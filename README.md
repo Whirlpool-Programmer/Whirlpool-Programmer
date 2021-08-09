@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
 
-[hehe](https://komarev.com/ghpvc/?username=Whirlpool-programmer)
-
 - I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit), [Proget](http://pypi.org/projects/proget) and [Proget-GUI](http://pypi.org/projects/proget-gui)**
 
 - My every single project is open-sourced.. Contribute if you want!
