@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
 
+## A total of ![my presence in here](https://profile-counter.glitch.me/Whirlpool-programmer/count.svg) have visited this profile!
+
 - I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit), [Proget](http://pypi.org/projects/proget) and [Proget-GUI](http://pypi.org/projects/proget-gui)**
 
 - My every single project is open-sourced.. Contribute if you want!
@@ -23,7 +25,3 @@
 
 
 ![Whirlpool-Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whirlpool-Programmer&show_icons=true&theme=monokai)
-
-# Visits to this page:
-
-![my presence in here](https://profile-counter.glitch.me/Whirlpool-programmer/count.svg)
