@@ -24,3 +24,6 @@
 
 ![Whirlpool-Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whirlpool-Programmer&show_icons=true&theme=monokai)
 
+# Visits to this page:
+
+![my presence in here](https://profile-counter.glitch.me/Whirlpool-programmer/count.svg)
