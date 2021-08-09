@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
 
-<img src=https://komarev.com/ghpvc/?username=Whirlpool-programmer/>
+[hehe](https://komarev.com/ghpvc/?username=Whirlpool-programmer)
 
 - I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit), [Proget](http://pypi.org/projects/proget) and [Proget-GUI](http://pypi.org/projects/proget-gui)**
 
