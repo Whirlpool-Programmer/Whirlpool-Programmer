@@ -35,3 +35,6 @@
 
 
 ![Whirlpool-Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whirlpool-Programmer&show_icons=true&theme=monokai)
+
+Fun Fact:
+This profile page's README.md is license under [Unlicense](unlicense.org)
