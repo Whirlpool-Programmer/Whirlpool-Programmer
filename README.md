@@ -18,16 +18,9 @@
 
 - At present, I am actively improving my projects- Whirledit and proget! (so make sure to check them out! NOW!)
 
-- Other than python, I know Scratch and HTML..
+- I am a true Pythocat! as this image says..
 
-- besides them, I am learning:
-
-1. Lua
-2. Perl
-3. Julia
-4. C++
-5. C
-6. C#
+![Pythocat](https://octodex.github.com/images/pythocat.png)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=monokai)](https://git.io/streak-stats)
 
