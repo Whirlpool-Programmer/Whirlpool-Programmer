@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
+<h1 align="center">Hi 👋, I am Whirlpool-Programmer..</h1>
 
 ## I am unavaliable from 13:30 to 8:30 GMT
 
@@ -12,7 +12,9 @@
 
 - When not pythoning, i am studying..
 
+
 ![Metrics](https://metrics.lecoq.io/Whirlpool-programmer?template=classic&base.metadata=0&isocalendar=1&languages=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=programming&languages.recent.load=300&languages.recent.days=121&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UK%2FLondon)
+
 
 Fun Fact:
 This profile page's README.md is license under [Unlicense](unlicense.org)
