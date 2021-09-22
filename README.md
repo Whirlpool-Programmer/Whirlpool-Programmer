@@ -1,12 +1,8 @@
 <h1 align="center">Hello 👋, I am Whirlpool-Programmer..</h1>
 
-## A total of ![my presence in here](https://profile-counter.glitch.me/Whirlpool-programmer/count.svg) have visited this profile!
-
 ## I am unavaliable from 13:30 to 8:30 GMT
 
 - I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit) and [Proget](http://pypi.org/projects/proget)**
-
-- My every single project is open-sourced.. Contribute if you want!
 
 - I like talking about **Bill Gates, Microsoft, Python and Intel**
 
@@ -16,20 +12,7 @@
 
 - When not pythoning, i am studying..
 
-- And yeah, if you have come and visited this profile page, then check out my repositories too!
-
-- At present, I am actively improving my projects- Whirledit and proget! (so make sure to check them out! NOW!)
-
-- I am a true Pythocat! as this image says..
-
-![Pythocat](https://octodex.github.com/images/pythocat.png)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whirlpool-Programmer&theme=monokai)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Whirlpool-Programmer&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Whirlpool-Programmer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whirlpool-Programmer&show_icons=true&theme=monokai)
+![Metrics](https://metrics.lecoq.io/Whirlpool-programmer?template=classic&base.metadata=0&isocalendar=1&languages=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=programming&languages.recent.load=300&languages.recent.days=121&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UK%2FLondon)
 
 Fun Fact:
 This profile page's README.md is license under [Unlicense](unlicense.org)
