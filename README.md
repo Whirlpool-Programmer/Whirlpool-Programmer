@@ -23,7 +23,7 @@ The first ever galaxy whose name i got to know was Whirlpool-Galaxy.. So.. In 20
 
 <hr>
 
-## My [metrics](metrics.lecoq.io) by @lowlighter
+## My [metrics](metrics.lecoq.io) by [@lowlighter](https://github.com/lowlighter/)
 [![My Metrics](https://metrics.lecoq.io/Whirlpool-programmer?base.metadata=0&isocalendar=1&languages=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=programming&languages.recent.load=300&languages.recent.days=121&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UK%2FLondon)](https://metrics.lecoq.io/Whirlpool-programmer?base.metadata=0&isocalendar=1&languages=1&achievements=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=programming&languages.recent.load=300&languages.recent.days=121&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UK%2FLondon)
 
 
