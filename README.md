@@ -2,6 +2,12 @@
 
 ## I am unavaliable from 13:30 to 8:30 GMT
 
+<a href="mailto:whirlpool.programmer@outlook.com"><i class='fas fa-envelope-open'></i></a>
+<a href="http://www.github.com/Whirlpool-programmer"><i class='fab fa-github'></i></a>
+<a href="http://www.pypi.org/user/Whirlpool-programmer"><i class='fab fa-python'></i></a>
+<a href="https://stackoverflow.com/users/14917676/whirlpool-programmer"><i class='fab fa-stack-overflow'></i></a>
+<a href="https://www.youtube.com/channel/UC1YNNUkVk5hnzw4f5usKd8Q"><i class="fab fa-youtube"></i></a>
+
 - I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit) and [Proget](http://pypi.org/projects/proget)**
 
 - I like talking about **Bill Gates, Microsoft, Python and Intel**
