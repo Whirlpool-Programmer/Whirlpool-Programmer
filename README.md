@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I am WhMSFT..</h1>
 
-## I am unavaliable from 13:30 to 8:30 GMT
-
 <a href="mailto:whirlpool.programmer@outlook.com"><i class='fas fa-envelope-open'></i></a>
 <a href="http://www.github.com/Whirlpool-programmer"><i class='fab fa-github'></i></a>
 <a href="http://www.pypi.org/user/Whirlpool-programmer"><i class='fab fa-python'></i></a>
