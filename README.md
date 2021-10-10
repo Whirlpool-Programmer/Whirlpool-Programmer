@@ -16,6 +16,8 @@
 
 - When not pythoning, i am studying..
 
+- Know The Fact - There is no language better than Python
+
 <hr>
 
 ## Why i changed my username?
