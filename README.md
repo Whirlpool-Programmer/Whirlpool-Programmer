@@ -18,6 +18,8 @@
 
 - Know The Fact - There is no language better than Python
 
+- Know the fact 2: There is no company better than Microsoft
+
 <hr>
 
 ## Why i changed my username?
@@ -29,8 +31,11 @@ why?
 
 well.. because it is too loong!
 
-whmsft is simple.. unique and special!
+#### whmsft is simple.. unique and special!
 
+### why special?
+
+because `shorten("Whirlpool-programmer")+shorten("Microsoft") = whMSFT`
 <hr>
 
 ## My [metrics](metrics.lecoq.io) by [@lowlighter](https://github.com/lowlighter/)
