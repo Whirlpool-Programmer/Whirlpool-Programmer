@@ -8,7 +8,7 @@
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
-- When not pythoning, i am studying..
+- Currently, learning C & V (in the future: R) LOL!
 
 - Know The Fact - There is no language better than Python
 
