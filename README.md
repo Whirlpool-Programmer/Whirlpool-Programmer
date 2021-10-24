@@ -8,7 +8,7 @@
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
-- Currently, learning C & Nim
+- Currently, learning (C) & (Nim OR Go)
 
 - Know The Fact - There is no language better than Python
 
