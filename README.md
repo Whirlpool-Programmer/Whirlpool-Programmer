@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am WhMSFT..</h1>
 
-- I am currently working on **[WhirlEdit](https://github.com/whirlpool-programmer/whirledit) and [Proget](http://pypi.org/projects/proget)**
+- I am currently working on **[WhirlEdit](https://github.com/whmsft/whirledit)**
 
 - I like talking about **Bill Gates, Microsoft, Python and Intel**
 
