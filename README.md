@@ -8,8 +8,6 @@
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
-- Currently, learning (C) & (Nim OR Go)
-
 - Know The Fact - There is no language better than Python
 
 - Know the fact 2: There is no company better than Microsoft
