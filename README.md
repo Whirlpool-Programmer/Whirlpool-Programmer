@@ -8,10 +8,6 @@
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
 
-- Know The Fact - There is no language better than Python
-
-- Know the fact 2: There is no company better than Microsoft
-
 <hr>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Whmsft&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
