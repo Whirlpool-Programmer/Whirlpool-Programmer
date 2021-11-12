@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I am WhMSFT..</h1>
 
+# Currently I am far from my home. 
+
 - I am currently working on **[WhirlEdit](https://github.com/whmsft/whirledit)**
 
 - I like talking about **Bill Gates, Microsoft, Python and Intel**
