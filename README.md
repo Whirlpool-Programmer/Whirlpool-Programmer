@@ -2,6 +2,8 @@
 
 # Currently I am far from my home. 
 
+## I am the [Benevolent Dictator of Life](https://wikipedia.org/wiki/Benevolent_dictator_for_life) BDFL of all my projects
+
 - I am currently working on **[WhirlEdit](https://github.com/whmsft/whirledit)**
 
 - I like talking about **Bill Gates, Microsoft, Python and Intel**
