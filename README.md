@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I am WhMSFT..</h1>
 
-# Currently I am far from my home. and just making 1/2 commits a day to keep up with my streak
-
 ## I am the [Benevolent Dictator of Life](https://wikipedia.org/wiki/Benevolent_dictator_for_life) BDFL of all my projects
 
 - I am currently working on **[WhirlEdit](https://github.com/whmsft/whirledit)**
 
-- I like talking about **Bill Gates, Microsoft, Python and Intel**
+- I like talking about **Bill Gates, Microsoft, Python, anti-google, anti-elon and Intel**
 
 - wanna help me? email me at whirlpool.programmer@outlook.com
 
