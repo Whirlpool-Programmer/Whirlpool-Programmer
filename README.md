@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I am WhMSFT..</h1>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/wh-msft-0084ff?style=for-the-badge" style="width:50%"><br>
+  Hi 👋, I am whmsft..</h1>
 
 <h2 align="center">
   <a href="https://scratch.mit.edu/users/Whirlpool-programmer"><img src="https://img.shields.io/badge/scratch-whirlpool_programmer-yellow?style=for-the-badge"></a>
