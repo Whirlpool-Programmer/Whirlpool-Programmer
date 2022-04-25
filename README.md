@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I am WhMSFT..</h1>
 
-## I am the [Benevolent Dictator of Life](https://wikipedia.org/wiki/Benevolent_dictator_for_life) BDFL of all my projects
-
 - I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)**
 
 - wanna contact me? email me at  whmsft@outlook.com
