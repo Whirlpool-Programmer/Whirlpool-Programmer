@@ -1,6 +1,7 @@
 
 <h1 align="center">
   <img src="/stopwar.svg">
+  <br>
   Hi 👋, I am whmsft..</h1>
 
 <h2 align="center">
