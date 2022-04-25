@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I am WhMSFT..</h1>
 
+<h2 align="center">
+  <a href="https://scratch.mit.edu/users/Whirlpool-programmer"><img src="https://img.shields.io/badge/scratch-whirlpool_programmer-yellow?style=for-the-badge"></a>
+  <a href="https://replit.com/@whms"><img src="https://img.shields.io/badge/replit-whms-lightgrey?style=for-the-badge&logo=replit"></a>
+  <br>
+  <a href="mailto:whmsft@outlook.com"><img src="https://img.shields.io/badge/outlook-whmsft-blue?style=for-the-badge&logo=microsoft"></a>
+</h2>
+
 - I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)**
 
 - wanna contact me? email me at  whmsft@outlook.com
