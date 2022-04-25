@@ -2,13 +2,11 @@
 
 ## I am the [Benevolent Dictator of Life](https://wikipedia.org/wiki/Benevolent_dictator_for_life) BDFL of all my projects
 
-- I am currently working on **[WhirlEdit](https://github.com/whmsft/whirledit)**
+- I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)
 
-- I like talking about **Bill Gates, Microsoft, Python, anti-google, anti-elon and Intel**
+- wanna contact me? email me at ~~whirlpool.programmer@outlook.com~~ whmsft@outlook.com
 
-- wanna help me? email me at whirlpool.programmer@outlook.com
-
-- Fun Fact: My birthday is on 18th July, That's the birthday of Intel!
+- Fun Fact: My birthday is on 18th July, That's the birthday of Intel! (Intel is exactly 40 years older to me)
 
 <hr>
 
