@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/wh-msft-0084ff?style=for-the-badge" style="width:50%"><br>
+  <img src="/stopwar.svg">
   Hi 👋, I am whmsft..</h1>
 
 <h2 align="center">
