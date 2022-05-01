@@ -13,7 +13,7 @@
 
 - I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)**
 
-- wanna contact me? email me at  whmsft@outlook.com
+- want to contact me? email me at  whmsft@outlook.com
 
 - Fun Fact: My birthday is on 18th July, That's the birthday of Intel! (Intel is exactly 40 years older to me)
 
