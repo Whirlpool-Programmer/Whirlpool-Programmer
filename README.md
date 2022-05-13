@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="/stopwar.svg">
   <br>
