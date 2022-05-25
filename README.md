@@ -10,7 +10,7 @@
   <a href="mailto:whmsft@outlook.com"><img src="https://img.shields.io/badge/outlook-whmsft-blue?style=for-the-badge&logo=microsoft"></a>
 </h2>
 
-- I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and few more (private)..
+- I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and few more (private/local)..
 
 - want to contact me? email me at  whmsft@outlook.com
 
