@@ -10,7 +10,7 @@
   <a href="mailto:whmsft@outlook.com"><img src="https://img.shields.io/badge/outlook-whmsft-blue?style=for-the-badge&logo=microsoft"></a>
 </h2>
 
-- A Windows 7 user
+- A Windows 7 user! 
 
 - I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and few more (private/local)..
 
