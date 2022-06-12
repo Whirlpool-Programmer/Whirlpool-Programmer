@@ -8,6 +8,7 @@
   <a href="https://replit.com/@whms"><img src="https://img.shields.io/badge/replit-whms-lightgrey?style=for-the-badge&logo=replit"></a>
   <br>
   <a href="mailto:whmsft@outlook.com"><img src="https://img.shields.io/badge/outlook-whmsft-blue?style=for-the-badge&logo=microsoft"></a>
+  <a href="whmsft.itch.io"><img src="https://img.shields.io/badge/itch-whmsft-red?style=for-the-badge&logo=itch"></a> 
 </h2>
 
 - A Windows 7 user! 
