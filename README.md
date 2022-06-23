@@ -11,7 +11,7 @@
   <a href="http://whmsft.itch.io"><img src="https://img.shields.io/badge/itch-whmsft-red?style=for-the-badge&logo=itch"></a> 
 </h2>
 
-- I am a Windows 7 user! 
+- I am a Windows 7 user!
 
 - I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and few more (local)..
 
