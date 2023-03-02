@@ -13,7 +13,7 @@
 
 - I am a Windows 7 user!
 
-- I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and few more (local)..
+- I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and on my new game: **[vechTen](https://github.com/whmsft/vechten)**..
 
 - want to contact me? email me at  whmsft@outlook.com
 
