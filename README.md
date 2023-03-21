@@ -11,9 +11,11 @@
   <a href="http://whmsft.itch.io"><img src="https://img.shields.io/badge/itch-whmsft-red?style=for-the-badge&logo=itch"></a> 
 </h2>
 
-- I am a Windows 7 user!
+- I'm a 14 y-o Windows 7 user!
 
-- I am currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and on my new game: **[vechTen](https://github.com/whmsft/vechten)**..
+- I'm currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and on my new game: **[vechTen](https://github.com/whmsft/vechten)** and also on [experiments](https://github.com/whmsft/experiments)..
+
+- In my future, I dream of joining in as a Data Scientist @ "a COMFORT In Scripts" (its an angram of, the owners of, ah, c'mon just Bing them...) 
 
 - want to contact me? email me at  whmsft@outlook.com
 
