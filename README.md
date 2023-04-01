@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/stopwar.svg">
+  <img src="https://user-images.githubusercontent.com/72214351/229285678-38bf20bb-08ad-4365-9f3b-54178f0bcf58.png">
   <br>
   Hi 👋, I am whmsft..</h1>
 
@@ -9,6 +9,8 @@
   <br>
   <a href="mailto:whmsft@outlook.com"><img src="https://img.shields.io/badge/outlook-whmsft-blue?style=for-the-badge&logo=microsoft"></a>
   <a href="http://whmsft.itch.io"><img src="https://img.shields.io/badge/itch-whmsft-red?style=for-the-badge&logo=itch"></a> 
+  
+  The image above is surely not me ;) Its just my try on pixel art and a part of my future project :)
 </h2>
 
 - I'm a 14 y-o Windows 7 user!
