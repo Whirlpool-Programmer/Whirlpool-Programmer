@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/72214351/229285678-38bf20bb-08ad-4365-9f3b-54178f0bcf58.png">
   <br>
-  Hi 👋, I am whmsft..</h1>
-
-<h2 align="center">
+  Hi 👋, I am whmsft..
+</h1>
+<p align="center">
   <a href="https://scratch.mit.edu/users/Whirlpool-programmer"><img src="https://img.shields.io/badge/scratch-whirlpool_programmer-yellow?style=for-the-badge"></a>
   <a href="https://replit.com/@whms"><img src="https://img.shields.io/badge/replit-whms-lightgrey?style=for-the-badge&logo=replit"></a>
   <br>
@@ -11,13 +11,15 @@
   <a href="http://whmsft.itch.io"><img src="https://img.shields.io/badge/itch-whmsft-red?style=for-the-badge&logo=itch"></a> 
   
   The image above is surely not me ;) Its just my try on pixel art and a part of my future project :)
-</h2>
+</p>
 
 - I'm a 14 y-o Windows 7 user!
 
 - I'm currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ **[PopUP](https://github.com/whmsft/popup)** and on my new game: **[vechTen](https://github.com/whmsft/vechten)** and also on [experiments](https://github.com/whmsft/experiments)..
 
-- In my future, I dream of joining in as a Data Scientist @ "a COMFORT In Scripts" (its an angram of, the owners of, ah, c'mon just Bing them...) 
+- If you want, you can check out my own "personal" [to-do](https://github.com/whmsft/todo) list which i probably update each week.
+
+- In my future, I dream of joining in as a Data Scientist @ Microsoft (MSFT, thus my username's last 4 chars)
 
 - want to contact me? email me at  whmsft@outlook.com
 
