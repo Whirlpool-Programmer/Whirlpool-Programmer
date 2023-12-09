@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Hiu 👋, I am whmsft...
+  Hello 👋, I am whmsft...
 </h1>
 <p align="center">
   <a href="https://scratch.mit.edu/users/Whirlpool-programmer"><img src="https://img.shields.io/badge/scratch-whirlpool_programmer-yellow?style=for-the-badge"></a>
@@ -10,7 +10,7 @@
   <a href="http://whmsft.itch.io"><img src="https://img.shields.io/badge/itch-whmsft-red?style=for-the-badge&logo=itch"></a> 
 </p>
 
-- I'm a 15-year-old Nerd who likes talking about Geopolitics, AI, Technology, Maps, News and stuff.
+- I'm a 15-year-old Nerd who likes talking about the United Kingdom, Geopolitics, AI, Technology, Maps, News and stuff.
 
 - I'm currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ ~~**[PopUP](https://github.com/whmsft/popup)**~~ and on my ~~new~~ game: ~~**[vechTen](https://github.com/whmsft/vechten)**~~ and also on ~~[experiments](https://github.com/whmsft/experiments)~~ Just relaxing and doing nothing...
 
