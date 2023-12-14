@@ -3,6 +3,9 @@
   Hello 👋, I am whmsft...
 </h1>
 <p align="center">
+  <a href="https://twitter.com/whmsft"><img src="https://img.shields.io/badge/twitter-whmsft-black?style=for-the-badge&logo=X"></a>
+  <a href="https://twitter.com/whmsft"><img src="https://img.shields.io/badge/instagram-whmsft-pink?style=for-the-badge&logo=instagram"></a>
+  <br>
   <a href="https://scratch.mit.edu/users/Whirlpool-programmer"><img src="https://img.shields.io/badge/scratch-whirlpool_programmer-yellow?style=for-the-badge"></a>
   <a href="https://replit.com/@whms"><img src="https://img.shields.io/badge/replit-whms-lightgrey?style=for-the-badge&logo=replit"></a>
   <br>
