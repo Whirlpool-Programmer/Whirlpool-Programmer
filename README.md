@@ -6,7 +6,7 @@
   <a href="https://github.com/whmsft"><img src="https://img.shields.io/badge/github-whmsft-black?style=for-the-badge&logo=github"></a>
   <br>
   <a href="https://twitter.com/whmsft"><img src="https://img.shields.io/badge/twitter-whmsft-black?style=for-the-badge&logo=X"></a>
-  <a href="https://twitter.com/whmsft"><img src="https://img.shields.io/badge/instagram-whmsft-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="https://instagram.com/whmsft"><img src="https://img.shields.io/badge/instagram-whmsft-pink?style=for-the-badge&logo=instagram"></a>
   <br>
   <a href="https://scratch.mit.edu/users/Whirlpool-programmer"><img src="https://img.shields.io/badge/scratch-whirlpool_programmer-yellow?style=for-the-badge"></a>
   <a href="https://replit.com/@whms"><img src="https://img.shields.io/badge/replit-whms-lightgrey?style=for-the-badge&logo=replit"></a>
@@ -15,7 +15,9 @@
   <a href="http://whmsft.itch.io"><img src="https://img.shields.io/badge/itch-whmsft-red?style=for-the-badge&logo=itch"></a> 
 </p>
 
-- I'm a 15-year-old Nerd who likes talking about the United Kingdom, Geopolitics, AI, Technology, Maps, News and stuff.
+- I'm a 15-year-old who likes talking about the United Kingdom, Geopolitics, AI, Technology, Maps, News and stuff.
+
+- I have really strong controversial opinions. I stand strongly with Israel no matter what. I terribly dislike all religions, Islam and Hinduism the most (even though the latter is my own religion, but I don't believe in such faiths)
 
 - I'm currently working on ~~**[WhirlEdit](https://github.com/whmsft/whirledit)**~~ ~~**[PopUP](https://github.com/whmsft/popup)**~~ and on my ~~new~~ game: ~~**[vechTen](https://github.com/whmsft/vechten)**~~ and also on ~~[experiments](https://github.com/whmsft/experiments)~~ Just relaxing and doing nothing...
 
@@ -28,5 +30,3 @@
 - I can understand Dutch and German too, but not fluent in any of them.
 
 <hr>
-
-![Metrics](https://metrics.lecoq.io/whmsft?template=classic&base.metadata=0&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=full-year&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=Text%3AWren&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Antarctica%2FSouth%20Pole)
